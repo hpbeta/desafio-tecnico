@@ -4,6 +4,7 @@ import { Contact } from "./pages/contact"
 import { Header } from "./pages/header"
 import { Hero } from "./pages/hero"
 import { MugDetailCard } from "./pages/mugDetailCard"
+import { SendEmail } from "./pages/sendEmail"
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
      <MugCard />
      <NewRelease />
      <Contact />
+     <SendEmail />
    </>
   )
 }
