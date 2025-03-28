@@ -1,3 +1,4 @@
+import { NewRelease } from "./componentes/newRelease"
 import { Header } from "./pages/header"
 import { Hero } from "./pages/hero"
 
@@ -8,6 +9,7 @@ function App() {
    <>
      <Header />
      <Hero />
+     <NewRelease />
    </>
   )
 }
