@@ -23,14 +23,13 @@ export function Header() {
     <header>
       <TopBar>
         <p>
-          {" "}
           Ganhe <span>R$10,00</span> de desconto no seu primeiro pedido. Utilize
           o cupom DESCONTO10
         </p>
       </TopBar>
       <ContainerNavBar>
         <NavBar>
-          <img src={logo} alt="" />
+          <img src={logo} alt="Logotipo" />
           <SearchBar>
             <ContainerInput>
               <SearchInput
