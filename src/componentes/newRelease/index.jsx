@@ -11,7 +11,7 @@ export function NewRelease() {
     infinite: true,
     speed: 500,
     slidesToShow: 5,
-    slidesToScroll: 2,
+    slidesToScroll: 1,
     centerMode: true,
     centerPadding: "0px",
   };
